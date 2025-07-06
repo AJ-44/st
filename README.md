@@ -1,5 +1,5 @@
 ## simple terminal - grape
-st but with a grape color scheme as default. This is a plain dark theme that isn't distracting with lots of colors.
+st but with a grape color scheme as default. This is a plain dark theme that isn't distracting.
 
 ## patches added
 * alpha & changealpha (transparency)
